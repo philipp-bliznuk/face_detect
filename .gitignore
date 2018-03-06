@@ -1,0 +1,5 @@
+.idea/
+.pyc
+samples/
+persons.json
+recognizer.yml
